@@ -1,0 +1,52 @@
+<Package>
+  <Chunk Id="1000" Marker="Launch">
+    <FileGroup DestinationPath="." SourcePath="." Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\component_crx_cache" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\component_crx_cache" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Crashpad" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Crashpad" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\AutofillAiModelCache" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\AutofillAiModelCache" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\AutofillStrikeDatabase" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\AutofillStrikeDatabase" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\BudgetDatabase" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\BudgetDatabase" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Cache\Cache_Data" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Cache\Cache_Data" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Cache\No_Vary_Search" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Cache\No_Vary_Search" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\ClientCertificates" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\ClientCertificates" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Code Cache\js" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Code Cache\js" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Code Cache\js\index-dir" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Code Cache\js\index-dir" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Code Cache\wasm" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Code Cache\wasm" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Code Cache\wasm\index-dir" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Code Cache\wasm\index-dir" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\commerce_subscription_db" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\commerce_subscription_db" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\DawnGraphiteCache" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\DawnGraphiteCache" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\DawnWebGPUCache" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\DawnWebGPUCache" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\discounts_db" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\discounts_db" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\discount_infos_db" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\discount_infos_db" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\EdgeSessions" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\EdgeSessions" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Extension Rules" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Extension Rules" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Extension Scripts" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Extension Scripts" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Extension State" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Extension State" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\AvailabilityDB" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\AvailabilityDB" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\EventDB" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\EventDB" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\GPUCache" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\GPUCache" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\IndexedDB\https_www.bing.com_0.indexeddb.blob\2\00" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\IndexedDB\https_www.bing.com_0.indexeddb.blob\2\00" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\IndexedDB\https_www.bing.com_0.indexeddb.leveldb" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\IndexedDB\https_www.bing.com_0.indexeddb.leveldb" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Local Storage\leveldb" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Local Storage\leveldb" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Network" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Network" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\optimization_guide_hint_cache_store" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\optimization_guide_hint_cache_store" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\parcel_tracking_db" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\parcel_tracking_db" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\PersistentOriginTrials" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\PersistentOriginTrials" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Session Storage" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Session Storage" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Shared Dictionary" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Shared Dictionary" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Shared Dictionary\cache" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Shared Dictionary\cache" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Shared Dictionary\cache\index-dir" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Shared Dictionary\cache\index-dir" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\shared_proto_db" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\shared_proto_db" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\shared_proto_db\metadata" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\shared_proto_db\metadata" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Site Characteristics Database" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Site Characteristics Database" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Sync Data\LevelDB" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\Sync Data\LevelDB" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\WebStorage" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\Default\WebStorage" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\GPUPersistentCache\DawnGraphiteCache\H6POMLZSBZPTMTLBCTMXRDH27BAKUDTA" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\GPUPersistentCache\DawnGraphiteCache\H6POMLZSBZPTMTLBCTMXRDH27BAKUDTA" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\GrShaderCache" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\GrShaderCache" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\ShaderCache" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\ShaderCache" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.exe.WebView2\EBWebView\SmartScreen\RemoteData" SourcePath=".\Direct3DGame1.exe.WebView2\EBWebView\SmartScreen\RemoteData" Include="*.*" />
+    <FileGroup DestinationPath=".\Direct3DGame1.tlog" SourcePath=".\Direct3DGame1.tlog" Include="*.*" />
+  </Chunk>
+</Package>
